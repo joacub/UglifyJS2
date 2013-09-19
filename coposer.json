@@ -1,0 +1,15 @@
+{
+	"name" : "joacub/UglifyJS2",
+	"description" : "jsmin",
+	"type" : "library",
+	"authors" : [{
+			"name" : "Johan",
+			"email" : "joacub@gmail.com"
+		}
+	],
+	"keywords" : [
+		"crawler"
+	],
+	"homepage" : "https://github.com/joacub"
+
+}
